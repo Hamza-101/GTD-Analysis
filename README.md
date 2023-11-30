@@ -12,6 +12,8 @@ A data science centered, semester project on Global Terrorism Database(GTD).
 
 
 # Dataset
+
+## Primary Dataset:
 [Global Terroism Dataset](https://www.start.umd.edu/gtd/)™ (GTD) is an open-source database including information on terrorist events around the world from 1970 through 2020
 (with annual updates planned for the future). Unlike many other event databases, the GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 200,000 cases.
 
@@ -19,7 +21,6 @@ A data science centered, semester project on Global Terrorism Database(GTD).
 
 #### Download Dataset: https://www.start.umd.edu/gtd/contact/download
 > Fill in the form and get access on email.
-
 
 ## Dataset Features
 1) Unique Event ID
@@ -34,7 +35,7 @@ A data science centered, semester project on Global Terrorism Database(GTD).
 > Many other features, total around ~135, it would be too wordy to list them all here. Read the cookbook, too long for me lol, exploring the dataset files would make you understand it better.
 
 # Exploratory Data Analysis
-## Case Studies(Subject to change):
+## Case Studies(Subject to change and add justification):
 1) Total Attacks over the year (Use some unique plots)
 2) Total Attacks by country (Heat map)
 3) Total Attacks by country (Top 10)
@@ -51,6 +52,12 @@ A data science centered, semester project on Global Terrorism Database(GTD).
 14) War overlap with terrorist attacks (Matplotlib animation)
 15) Killings over 1000, attacks + Reasoning, Actions taken
 16) Suicide Attacks
+
+## Secondary Dataset:
+Another dataset, [OnWar.com](https://onwar.com/chronology/index.html) was used for analysis of wars and their time periods aound the world. We further incorporated our findings into our "" case study.
+
+
+
 
 # Model
 (To be decided)
