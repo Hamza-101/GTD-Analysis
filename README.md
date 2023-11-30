@@ -22,7 +22,7 @@ A data science centered, semester project on Global Terrorism Database(GTD).
 #### Download Dataset: https://www.start.umd.edu/gtd/contact/download
 > Fill in the form and get access on email.
 
-## Dataset Features
+### Dataset Features
 1) Unique Event ID
 1) Date 
 3) Country | State/Province | City
